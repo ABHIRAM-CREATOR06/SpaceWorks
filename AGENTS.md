@@ -363,5 +363,3 @@ use `git log --oneline` / `git blame`.
 - MVP vs. later scope: §16
 - Behaviors that must be tested: §17 (test external behavior, not implementation)
 - Unresolved decisions: §18 — **resolve relevant open questions before implementing the affected area** rather than guessing.
-
-this is for testing purpose
